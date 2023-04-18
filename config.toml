@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = '时间零'
+theme = 'stack'
+defaultcontentlanguage = "zh-cn"
