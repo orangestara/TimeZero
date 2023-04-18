@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://orangestara.github.io/TimeZero/'
 languageCode = 'zh-cn'
 title = '时间零'
 theme = 'ananke'
